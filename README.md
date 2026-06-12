@@ -25,6 +25,7 @@ My academic interests include applied mathematics, numerical methods, machine le
 | File | Description |
 |---|---|
 | `day01_variables.py` | Basic Python variables and simple calculations |
+| `day02_lists.py` | Practice with lists, loops, random numbers, and a simple rare egg simulation |
 
 ## Goals
 
