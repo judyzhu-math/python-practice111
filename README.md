@@ -24,10 +24,11 @@ My academic interests include applied mathematics, numerical methods, machine le
 
 | File | Description |
 |---|---|
-| `day01_variables.py` | Basic Python variables and simple calculations |
-| `day02_lists.py` | Practice with lists, loops, random numbers, and a simple rare egg simulation |
-| `day03_functions.py` | Practice with functions by building a cleaner rare egg probability simulator |
-| `day04_monte_carlo.py` | Monte Carlo simulation of 10,000 players to estimate the probability of getting zero rare eggs |
+| `01_variables.py` | Basic Python variables and simple calculations |
+| `02_lists.py` | Practice with lists, loops, random numbers, and a simple rare egg simulation |
+| `03_functions.py` | Practice with functions by building a cleaner rare egg probability simulator |
+| `04_monte_carlo.py` | Monte Carlo simulation of 10,000 players to estimate the probability of getting zero rare eggs |
+| `05_plot_results.py` | Visualizes Monte Carlo simulation results using Matplotlib |
 
 ## Goals
 
